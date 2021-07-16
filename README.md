@@ -22,17 +22,16 @@
 ## &#x1f4c8; GitHub Status
 
 <div align="center">
- <a href="https://github.com/MennaMoOmar/MennaMoOmar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MennaMoOmar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Menna's GitHub Status" />
-</a>
+  <a href="https://github.com/MennaMoOmar/MennaMoOmar">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MennaMoOmar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Menna's GitHub Status" />
+ </a>
 </div>
 
-
-<br>
-
-<a href="https://github.com/MennaMoOmar/MennaMoOmar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaMoOmar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
+<div align="center">
+ <a href="https://github.com/MennaMoOmar/MennaMoOmar">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaMoOmar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+ </a>
+</div>
 
 <a href="https://github.com/MennaMoOmar/FORSAGE_EG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MennaMoOmar&repo=FORSAGE_EG&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
