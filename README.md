@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" >
  Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=5AA945)
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Status
 
 <a href="https://github.com/MennaMoOmar/MennaMoOmar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaMoOmar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
