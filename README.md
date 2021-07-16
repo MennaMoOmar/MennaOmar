@@ -28,7 +28,6 @@
  </div>
  
  <br/>
- <br/>
  
  <div align="center">
   <a href="https://github.com/MennaMoOmar/MennaMoOmar">
@@ -36,7 +35,6 @@
  </a>
  </div>
 
-<br/>
 </br>
 
 <div align="center">
