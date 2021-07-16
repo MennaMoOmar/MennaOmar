@@ -4,7 +4,7 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=blue&color=#E34F26)
+![](https://img.shields.io/badge/html5-informational?style=flat&logo=html&logoColor=blue&color=#E34F26)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=yellow&color=yellow)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
