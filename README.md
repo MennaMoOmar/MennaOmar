@@ -2,7 +2,7 @@
 
  My name is Menna Omar and I'm a Front end developer.
 
-<h2>aa</h2>
+<h2 align="center">aa</h2>
 
 ## 🔧 Technologies & Tools 
 
