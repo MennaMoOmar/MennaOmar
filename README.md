@@ -4,7 +4,7 @@ Front end developer 💻
 
 # 🔧 Technologies & Tools
 
-https://img.shields.io/static/v1?label=message="MESSAGE"&color=red
+https://img.shields.io/static/v1?label="a"&message="MESSAGE"&color=red
 {
   "schemaVersion": 1,
   "label": "hello",
