@@ -22,8 +22,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MennaMoOmar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Menna's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MennaMoOmar/FORSAGE_EG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MennaMoOmar&repo=FORSAGE_EG&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/MennaMoOmar/Amnesia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MennaMoOmar&repo=Amnesia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/MennaMoOmar/FORSAGE_EG-api">
