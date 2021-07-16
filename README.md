@@ -1,5 +1,8 @@
-<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center">
+ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
+## &#x270d; Blog & Writing
  My name is Menna Omar and I'm a Front end developer.
 
 ## 🔧 Technologies & Tools 
