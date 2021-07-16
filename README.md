@@ -1,8 +1,8 @@
-# MennaOmar
-https://imgur.com/Jqlaipq
+# Menna Omar
+
 Front end developer 💻
 
-🔧 Technologies & Tools
+#🔧 Technologies & Tools
 - HTNL
 - CSS
 - Javascript
