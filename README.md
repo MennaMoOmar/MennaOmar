@@ -12,7 +12,7 @@
 
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=DD4B25)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=254BDD)
-![](https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=254BDD)
+![](https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=white&color=C76395)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=E8D44D)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=D6002F)
 ![](https://img.shields.io/badge/React.js-informational?style=flat&logo=react&logoColor=white&color=5ED3F3)
