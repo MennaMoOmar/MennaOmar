@@ -3,7 +3,12 @@
 Front end developer 💻
 
 # 🔧 Technologies & Tools
-JavaScript TypeScript ReactJS Nodejs HTML5 CSS3
+{
+  "schemaVersion": 1,
+  "label": "hello",
+  "message": "sweet world",
+  "color": "orange"
+}
 - HTNL
 - CSS
 - Javascript
