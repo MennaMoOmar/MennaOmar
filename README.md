@@ -3,7 +3,7 @@
  My name is Menna Omar and I'm a Front end developer.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=html&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
