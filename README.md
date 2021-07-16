@@ -2,7 +2,7 @@
 
 Front end developer 💻
 
-#🔧 Technologies & Tools
+# 🔧 Technologies & Tools
 - HTNL
 - CSS
 - Javascript
