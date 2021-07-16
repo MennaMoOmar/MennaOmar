@@ -4,10 +4,12 @@
 
 
 ## &#x270d; Blog & Writing
+
  My name is Menna Omar and I'm a Front end developer.
 
 
 ## 🔧 Technologies & Tools 
+
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=DD4B25)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=254BDD)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=E8D44D)
@@ -18,6 +20,7 @@
 
 
 ## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/MennaMoOmar/MennaMoOmar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaMoOmar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
